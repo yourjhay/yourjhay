@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+### I'm Rey Jhon,
+I'm a web and mobile application developer at [Bentacos](https://bentacos.com). I specialize in backend coding and some front end works. I really like to explore different things.
+
+Finishing my degree doesn't stop me from learning new technologies that'll help me grow as software developer.
+
+- 🌱 I’m currently learning React.js and I'm doing good so far.
+- 🔭 I’m currently working on different projects including personal
+
+📫 How to reach me ?
+- You can visit me at [My Website](https://reyjhon.herokuapp.com). You can contact me there.
+
+👯 I’m looking to collaborate on any project if you need one 😄
+
+⚡ Fun fact:
+- I don't like working in offices without windows. 
+- I like cats 🐈 
+- I want to travel in different places in Philippines.
+- I'll build my dream 🏡 near in the 🏖️ soon.
+
 <!--
 **yourjhay/yourjhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
