@@ -9,7 +9,7 @@ Finishing my degree doesn't stop me from learning new technologies that'll help 
 - 🔭 I’m currently working on different projects including personal
 
 📫 How to reach me ?
-- You can visit me at [My Website](https://reyjhon.herokuapp.com). You can contact me there.
+- You can visit me at [My Website](https://reyjhon-about.herokuapp.com). You can contact me there.
 
 👯 I’m looking to collaborate on any project if you need one 😄
 
