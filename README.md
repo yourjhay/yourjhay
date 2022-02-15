@@ -18,6 +18,8 @@ Finishing my degree doesn't stop me from learning new technologies that'll help 
 - I like cats 🐈 
 - I want to travel in different places in Philippines.
 - I'll build my dream 🏡 near in the 🏖️ soon.
+- I don't use MS windows 😄
+- Linux is ❤️
 
 <!--
 **yourjhay/yourjhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
