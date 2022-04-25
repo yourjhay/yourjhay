@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### I'm Rey Jhon,
-I'm a web and mobile application developer at [Bentacos](https://bentacos.com). I specialize in backend coding and some front end works. I really like to explore different things.
+I'm a web and mobile application developer. I specialize in backend coding and some front end works. I really like to explore different things.
 
 Finishing my degree doesn't stop me from learning new technologies that'll help me grow as software developer.
 
@@ -18,7 +18,7 @@ Finishing my degree doesn't stop me from learning new technologies that'll help 
 - I like cats 🐈 
 - I want to travel in different places in Philippines.
 - I'll build my dream 🏡 near in the 🏖️ soon.
-- I don't use MS windows 😄
+- I don't use MS windows 😄 (nevermind my new employer requires me to use windows XD)
 - Linux is ❤️
 
 <!--
