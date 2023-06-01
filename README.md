@@ -3,7 +3,7 @@
 ### I'm Rey Jhon,
 I'm a web and mobile application developer. I specialize in backend coding and some front end works. I really like to explore different things.
 
-Finishing my degree doesn't stop me from learning new technologies that'll help me grow as software developer.
+Finishing my degree doesn't stop me from learning new technologies that'll help me grow as a software developer.
 
 - 🌱 I’m currently learning React.js and I'm doing good so far.
 - 🔭 I’m currently working on different projects including personal
