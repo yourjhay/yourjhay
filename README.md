@@ -9,7 +9,8 @@ Finishing my degree doesn't stop me from learning new technologies that'll help 
 - 🔭 I’m currently working on different projects including personal
 
 📫 How to reach me ?
-- You can visit me at [My Website](https://rjhon.net). You can contact me there.
+- You can visit me at [My Website](https://rjhon.net). You can contact me there. or;
+- Visit my [My LinkedIn](https://www.linkedin.com/in/rj-baquirin-810402182/)
 
 👯 I’m looking to collaborate on any project if you need one 😄
 
