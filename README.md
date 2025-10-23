@@ -20,7 +20,7 @@ Finishing my degree doesn't stop me from learning new technologies that'll help 
 - I like cats 🐈 
 - I want to travel in different places in Philippines.
 - I'll build my dream 🏡 near in the 🏖️ soon.
-- I don't use MS windows 😄 (nevermind my new employer requires me to use windows XD)
+- Horology is my hobby ✨
 - Linux is ❤️
 
 <!--
